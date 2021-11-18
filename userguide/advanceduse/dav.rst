@@ -5,7 +5,7 @@ CalDAV and CardDAV are protocols to sync calendars and contacts with a remote se
 Many e-mail hosters provide a CalDAV and CardDAV interface.
 
 **Note:** CalDAV sync can also be set up by using the calendar app.
-Open it, click on the little calendar icon in the top right corner and select "Add internet calendar > Generic CalDAV".
+Open it, click on the little calendar icon in the top right corner and select "Add online calendar". Select one of the account types, including Generic CalDAV.
 Enter your calendar URL as well as your username and password to complete the process.
 
 At the moment, the Ubuntu Touch graphical user-interface lacks a CardDAV implementation, but you can do it by using SyncEvolution + cron. There is a script you can run in the terminal, or via a phablet SSH connection.
